@@ -1,6 +1,6 @@
 # php-mysql-project
 
-#  Projet DevOps - Stack PHP / MySQL avec CI/CD GitLub
+#  Projet DevOps - Stack PHP / MySQL avec CI/CD GitLab
 
 Ce projet est une application web PHP connectée à une base de données MySQL, conteneurisée avec Docker et Docker Compose, et déployée automatiquement via une pipeline CI/CD GitLab.
 
